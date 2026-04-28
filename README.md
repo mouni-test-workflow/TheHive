@@ -11,7 +11,7 @@ This decision reflects our commitment to focus on the latest generation of TheHi
 and powerful new features tailored for modern SOC operations
 
 
-## Where to get the latest version of TheHive?
+## Where to get the latest version of TheHive?gg
 
 TheHive is now distributed as a commercial version
 
